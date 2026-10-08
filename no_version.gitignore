@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Vivado - archivos generados
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+.Xil/
+
+# Simuladores
+*.vcd
+*.wlf
+*.vvp
+
+# Archivos temporales
+*.tmp
+*.bak
